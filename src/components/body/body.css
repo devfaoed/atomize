@@ -1,0 +1,178 @@
+.cardBody{
+    width: 100%;
+    max-width: 1024px;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;  
+    margin: auto auto;
+}
+.cardDesc{
+   flex: 5;
+   overflow: hidden;
+   text-align: center;
+}
+
+.apple{
+    padding: 0 10px;
+    color: #fff;
+    background-color: red;
+    width: 20px;
+    height: 40px;
+    border-radius: 20px;
+    margin: 0 10px 0 0;
+}
+.eye{
+    padding: 0 10px;
+    color: #fff;
+    background-color: greenyellow;
+    width: 20px;
+    height: 40px;
+    border-radius: 20px;
+    margin: 0 10px 0 0;
+}
+.pen{
+    padding: 0 10px;
+    color: #fff;
+    background-color: yellow;
+    width: 20px;
+    height: 40px;
+    border-radius: 20px;
+    margin: 0 10px 0 0;
+}
+.link{
+    padding: 0 10px;
+    color: #fff;
+    background-color: green;
+    width: 20px;
+    height: 40px;
+    border-radius: 20px;
+    margin: 0 10px 0 0;
+}
+.play{
+    padding: 0 10px;
+    color: #fff;
+    background-color: blue;
+    width: 20px;
+    height: 40px;
+    border-radius: 20px;
+    margin: 0 10px 0 0;
+}
+.cardUserr{
+    background-color: gray;
+    border-radius: 10px;
+    height: 300px;
+}
+.user{
+    padding: 0 15px;
+    background: tomato;
+    width: 30px;
+    height: 60px;
+    border-radius: 30px;
+    margin: 60px 0 0 0;
+}
+.btn{
+    margin: 50px 0;
+}
+.btnPrimaryy{
+    background-color: blue;
+    padding: 15px 15px;
+    color: #fff;
+    border-radius: 20px;
+    border: none;
+    margin-right: 20px;
+    width: 120px;
+    height: 47px;
+    cursor: pointer;
+}
+.btnDefaultt{
+    background-color: #fff;
+    padding: 15px 15px;
+    border-radius: 20px;
+    border: 2px solid gray;
+    margin-left: 20px;
+    width: 120px;
+    height: 47px;
+    cursor: pointer;
+}
+.icon{
+    float: right;
+}
+.cardImg{
+    width: 100%;
+    border-radius: 10px;
+}
+.userr{
+    padding: 0 10px;
+    background: tomato;
+    width: 20px;
+    height: 40px;
+    border-radius: 20px;
+    margin: 0;
+    float: left;
+}
+.userrName{
+    float: left;
+    font-weight: bold;
+    padding: 5px 5px;
+}
+.userApple{
+    float: right;
+    padding: 5px 0;
+}
+.cardUse{
+    background-color: gray;
+    border-radius: 10px;
+    height: 80px;
+    margin: 50px 0;
+}
+.userIcon{
+    padding: 0 10px;
+    background: tomato;
+    width: 20px;
+    height: 40px;
+    border-radius: 20px;
+    margin: 6px 10px;
+    text-align: center;
+}
+.userIconName{
+ text-align: center;
+ top: -10px;
+}
+.cardDescc{
+    background-color: gray;
+    border-radius: 10px;
+    height: 350px;  
+}
+.cardDesccHead{
+    padding: 15px 25px;
+}
+.create{
+    color: blue;
+    cursor: pointer;
+}
+.cardForm{
+    margin: 35px 25px;
+}
+.form{
+    margin: 60px 0;
+    padding: 0 50px;
+}
+input {
+    border: none;
+    outline: none;
+    width: 100%;
+    height: 40px;
+    border-radius: 20px;
+}
+
+.login{
+    background-color: blue;
+    padding: 15px 15px;
+    color: #fff;
+    border-radius: 20px;
+    border: none;
+    margin: 33px 0;
+    width: 100%;
+    height: 47px;
+    cursor: pointer;
+}

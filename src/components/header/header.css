@@ -1,0 +1,35 @@
+.header{
+    text-align: center;
+    margin: 60px 10px;
+}
+
+.headerParagraph{
+    margin:  10px 0 0 0;
+    font-size: 14px;
+}
+.headerButton{
+   padding: 0;
+   margin: 30px 0;
+}
+.btnPrimary{
+    background-color: blue;
+    padding: 15px 15px;
+    color: #fff;
+    border-radius: 10px;
+    border: none;
+    margin-right: 20px;
+    width: 170px;
+    height: 47px;
+    cursor: pointer;
+}
+
+.btnDefault{
+    background-color: #fff;
+    padding: 15px 15px;
+    border-radius: 10px;
+    border: 2px solid gray;
+    margin-left: 20px;
+    width: 170px;
+    height: 47px;
+    cursor: pointer;
+}
